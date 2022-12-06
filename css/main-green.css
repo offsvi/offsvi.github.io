@@ -64,7 +64,7 @@ body {
   background-color: #f5f5f5;
   overflow-x: hidden;
   overflow-y: auto;
-  background-image: url(../images/main_bg.png);
+  background-image: url(../images/logo_2.png);
   background-size: cover;
   -webkit-background-size: cover;
   background-attachment: fixed;
@@ -98,7 +98,7 @@ a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #212121;
+  color: black;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-weight: 700;
   line-height: 1.5em;
@@ -185,7 +185,7 @@ textarea.form-control, textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #2eca7f;
+  background: black;
   height: 2px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -290,7 +290,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #2eca7f;
+  color: black;
 }
 /* /Form controls */
 
@@ -329,7 +329,7 @@ button, input[type="button"], input[type="submit"] {
 .btn-primary:hover,
 .btn-primary:focus,
 button, input[type="button"], input[type="submit"] {
-  background-color: #2eca7f;
+  background-color: black;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
@@ -354,11 +354,11 @@ button:hover, input[type="button"]:hover, input[type="submit"]:hover {
 /* / buttons */
 
 .border-top {
-  border-top: 2px solid #2eca7f;
+  border-top: 2px solid black;
 }
 
 .border-bottom {
-  border-bottom: 2px solid #2eca7f;
+  border-bottom: 2px solid black;
 }
 
 /* Footer */
@@ -434,7 +434,7 @@ body > footer .copyrights {
 
 .preloader-spinner:after {
   border-color: transparent;
-  border-top-color: #2eca7f;
+  border-top-color: black;
   -webkit-animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
   animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
 }
@@ -624,7 +624,7 @@ body > footer .copyrights {
 
 @media only screen and (min-width: 991px) {
   .header.sticked {
-    background-color: #fff;
+    background-color: #110336;
     height: 60px;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
@@ -640,7 +640,7 @@ body > footer .copyrights {
 }
 
 .site-title {
-  color: #49515d;
+  color: white;
   font-size: 20px;
   font-weight: 500;
   font-family: 'Montserrat', Helvetica, sans-serif;
@@ -649,7 +649,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #2eca7f;
+  color: white;
 }
 
 .header.sticked .site-title {
@@ -694,7 +694,7 @@ body > footer .copyrights {
   padding: 8px 0;
   margin: 0 20px;
   text-align: center;
-  color: #49515d;
+  color: white;
   font-size: 15px;
   line-height: 1;
   font-weight: 400;
@@ -724,7 +724,7 @@ body > footer .copyrights {
   width: 0;
   height: 2px;
   margin: 0 auto;
-  background-color: #2eca7f;
+  background-color: white;
   -webkit-transition: all 0.15s ease-in-out;
   -moz-transition: all 0.15s ease-in-out;
   -o-transition: all 0.15s ease-in-out;
@@ -788,7 +788,7 @@ body > footer .copyrights {
 }
 
 .block-title h3 span {
-  color: #2eca7f;
+  color: blue;
 }
 
 .custom-page-content .block {
@@ -809,8 +809,8 @@ body > footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #2eca7f;
-  background-image: url(../images/sp_main_bg.png);
+  background-color: #110336;
+  background-image: url(../images/logo_2.png);
   background-size: cover;
   -webkit-background-size: cover;
   background-attachment: scroll;
@@ -839,10 +839,10 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #2eca7f;
+  background-color: #110336;
   padding: 50px;
   margin-bottom: 25px;
-  background-image: url(../images/sp_main_bg.png);
+  background-image: url(../images/logo_2.png);
   background-size: cover;
   -webkit-background-size: cover;
   background-attachment: scroll;
@@ -905,7 +905,7 @@ body > footer .copyrights {
   width: 36px;
   height: 36px;
   border-radius: 24px;
-  background-color: #fff;
+  background-color: #110336;
   margin: 0 1px;
   color: #9e9e9e;
   text-align: center;
@@ -972,7 +972,7 @@ body > footer .copyrights {
 7.2. Resume subpage
 ======================================= */
 .timeline {
-  border-left: 2px solid #e0e0e0;
+  border-left: 2px solid #290785;
   padding: 15px 0;
 }
 
@@ -982,7 +982,7 @@ body > footer .copyrights {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color: #fff;
-  border-left: 2px solid #2eca7f;
+  border-left: 2px solid #290785;
   box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);
 }
 
@@ -1004,7 +1004,7 @@ body > footer .copyrights {
   height: 12px;
   top: 20px;
   left: -29px;
-  border: 2px solid #2eca7f;
+  border: 2px solid #290785;
   z-index: 2;
 }
 
@@ -1012,7 +1012,7 @@ body > footer .copyrights {
   content: '';
   display: inline-block;
   position: absolute;
-  background-color: #2eca7f;
+  background-color: #290785;
   border-radius: 10px;
   width: 29px;
   height: 2px;
@@ -1032,7 +1032,7 @@ body > footer .copyrights {
   display: inline-block;
   font-size: 12px;
   line-height: 1.2em;
-  color: #2eca7f;
+  color: #290785;
   margin-bottom: 8px;
 }
 
@@ -1073,7 +1073,7 @@ body > footer .copyrights {
 }
 
 .skill-percentage {
-  background-color: #2eca7f;
+  background-color: #290785;
   height: 10px;
   padding: 0;
 }
@@ -1255,7 +1255,7 @@ body > footer .copyrights {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #2eca7f;
+  color: #290785;
 }
 /* /Fun Facts */
 
@@ -1303,7 +1303,7 @@ body > footer .copyrights {
   padding: 2.2em 1.2em 1.5em;
   font-style: italic;
   border: 1px solid #e0e0e0;
-  border-top: 2px solid #2eca7f;
+  border-top: 2px solid #290785;
   width: 100%;
   position: relative;
   margin: 0;
@@ -1387,7 +1387,7 @@ body > footer .copyrights {
   content: '';
   height: 2px;
   margin-top: 0;
-  background-color: #2eca7f;
+  background-color: #290785;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -1464,7 +1464,7 @@ body > footer .copyrights {
 
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
-  background-color: #2eca7f;
+  background-color: #290785;
   color: #fff;
 }
 
@@ -1508,13 +1508,13 @@ body > footer .copyrights {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2eca7f;
+  background-color: #290785;
   opacity: 0.8;
   z-index: 0;
 }
 
 .portfolio-grid figure:nth-child(even) a div:before {
-  background-color: #9e51f3;
+  background-color: #2d2c2e;
 }
 
 .portfolio-grid figure a:hover div {
@@ -2069,7 +2069,7 @@ body > footer .copyrights {
 
 .share-buttons a:hover {
   color: #fff;
-  background-color: #2eca7f;
+  background-color: #582eca;
   border-color: transparent;
 }
 
