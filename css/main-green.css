@@ -912,24 +912,19 @@ body > footer .copyrights {
   height: 50px;
   border-radius: 24px;
   background-color: white;
-  margin: 0 1px;
-  color: black;
-  text-align: center;
-  -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
+  
+  
+  
+  /*-webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
   -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
-  box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
+  box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);*/
 }
 
-.rede-social {
-  width: 50px;
-  height: 50px;
-
-}
 
 .start-page-content .social-links a:hover {
-  -webkit-box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
+  /*-webkit-box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
   -moz-box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
-  box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);*/
 }
 
 .start-page-content .social-links a i {
