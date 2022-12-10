@@ -858,6 +858,7 @@ body > footer .copyrights {
 .start-page-content .page-header .photo {
   max-width: 210px;
   margin-bottom: -75px;
+  margin-left: 75px; 
   border: 2px solid #fff;
   background-color: #fff;
   -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
@@ -1762,7 +1763,7 @@ body > footer .copyrights {
 .contact-info-block i {
   position: relative;
   font-size: 18px;
-  color: #2eca7f;
+  color: #290785;
   text-align: center;
   line-height: 36px;
 }
@@ -2313,7 +2314,7 @@ blockquote footer, blockquote small, blockquote .small {
     left: 0;
     right: 0;
     height: 50px;
-    background-color: #2eca7f;
+    background-color: #290785;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
