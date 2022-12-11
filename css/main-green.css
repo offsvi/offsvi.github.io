@@ -952,13 +952,13 @@ body > footer .copyrights {
 
 .info-list {
   display: inline-block;
-  margin: 0;
-  padding: 0;
+  margin: 75px 60px;
+  padding: 0px;
   list-style: none;
 }
 
 .info-list li {
-  margin: 6px 0;
+  margin: 0px 0;
   text-align: left;
 }
 
@@ -2261,6 +2261,7 @@ blockquote footer, blockquote small, blockquote .small {
   .subpages {
     padding-top: 15px;
   }
+  
 
   .single-page-content {
     padding: 15px;
