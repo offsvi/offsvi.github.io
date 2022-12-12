@@ -1154,6 +1154,7 @@ body > footer .copyrights {
   height: 120px;
   background-color: #fafafa;
   border-radius: 100px;
+   
   margin: 0 auto;
   text-align: center;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1178,11 +1179,13 @@ body > footer .copyrights {
   max-width: 100px;
   height: 64px;
   margin: 28px 0;
+  
 }
 
 .service-block h4 {
   font-size: 17px;
   padding: 20px 0 0;
+  
 }
 
 .service-icon {
@@ -1193,6 +1196,7 @@ body > footer .copyrights {
   width: 80px;
   height: 80px;
   border-radius: 100px;
+  
   margin: 5px 0 0;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
