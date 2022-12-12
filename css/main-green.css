@@ -1146,7 +1146,7 @@ body > footer .copyrights {
   text-align: center;
   padding: 0;
   margin-bottom: 30px;
-  
+  float: left;
 }
 
 .service-image {
@@ -1178,7 +1178,7 @@ body > footer .copyrights {
 .service-block img {
   max-width: 100px;
   height: 64px;
-  margin: 28px 0;
+  margin: 32px 0;
   
 }
 
