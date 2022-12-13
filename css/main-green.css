@@ -952,7 +952,7 @@ body > footer .copyrights {
 
 .info-list {
   display: inline-block;
-  margin: 50px;
+  margin: 50px ;
   padding: 0px;
   list-style: none;
 }
@@ -971,9 +971,6 @@ body > footer .copyrights {
   display: inline-block;
   color: #9e9e9e;
 }
-
-
-
 
 /* =======================================
 7.2. Resume subpage
